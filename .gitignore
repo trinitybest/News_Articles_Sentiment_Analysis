@@ -1,0 +1,6 @@
+.DS_Store
+CSV
+SQL
+pickled
+*.yaml
+test.py
